@@ -9,4 +9,4 @@ npx create-react-app client
 
 ---
 
-npm install mongodb express cors dotenv //what is cross origin resource sharing.
+npm install mongodb express cors dotenv //what is cross origin resource sharing..
